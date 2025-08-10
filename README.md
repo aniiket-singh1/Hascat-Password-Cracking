@@ -1,5 +1,6 @@
 🔐# Hascat-Password-Cracking
-Summer School Internship-Program 2025 || Domain : Ethical Hacking & Cybersecurity || Team Members : Aditya Singh Rana, Rahul Kumar, Aniket ||
+Summer School Internship-Program 2025 || Domain : Ethical Hacking & Cybersecurity 
+|| Team Members : Aditya Singh Rana, Rahul Kumar, Aniket ||
 
 This project demonstrates the use of Hashcat — the world’s fastest and most advanced password recovery tool — to crack hashed passwords using various techniques like dictionary attacks, brute-force attacks, and rule-based attacks.
 
